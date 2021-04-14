@@ -2,7 +2,7 @@
 # Releases
 | Among Us Version | Mod Version | Link |
 |:----------------:|:-----------:|:----:|
-|2021.3.31.3s|v1.2.1|<i>Soon</i>|
+|2021.4.12s|v1.2.1|*Coming Soon*|
 
 -----------------------
 # Installation (Steam)
