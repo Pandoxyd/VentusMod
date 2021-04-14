@@ -1,4 +1,3 @@
------------------------
 # Releases
 | Among Us Version | Mod Version | Link |
 |:----------------:|:-----------:|:----:|
@@ -21,7 +20,8 @@ Then, you have to get theses files.
 <img src="https://i.imgur.com/FmjPQCh.png" />
 
 **5. Launch the Among Us application from this folder and have fun!**\
-The very first launch should take about 50 sec. Next times will be normal. You're be able to see `VentusMod by Pandoxyd` at the top of the main menu.
+The very first launch should take about 50 sec.\
+Next times will be normal. You're be able to see `VentusMod by Pandoxyd` at the top of the main menu.
 
 
 -----------------------
