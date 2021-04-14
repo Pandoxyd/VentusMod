@@ -15,13 +15,14 @@ Located at `Steam\steamapps\common\`.
 **3. Make a copy of the `Among Us` folder.**\
 And rename it whatever you want, like `Among Us VentusMod` for example.
 
-**4. Unzip the `.zip` <i/> (that you've downloaded at step 1) </i> content into the new folder you created.**
+**4. Unzip the `.zip` *(that you've downloaded at step 1)* content into the new folder you created.**\
 Then, you have to get theses files.
 
 <img src="https://i.imgur.com/FmjPQCh.png" />
 
 **5. Launch the Among Us application from this folder and have fun!**\
-The very first launch should take about 50 sec. Next times will be normal.
+The very first launch should take about 50 sec. Next times will be normal. You're be able to see `VentusMod by Pandoxyd` at the top of the main menu.
+
 
 -----------------------
 # Game Mechanics
@@ -31,7 +32,7 @@ The very first launch should take about 50 sec. Next times will be normal.
 | Crewmate | Yes, until you finish your tasks | Yes | No |
 | Impostor | Yes | Yes | Yes |
 
-**Impostors can kill a crewmate into a vent, but they can't kill from a vent.**
+***Impostors can kill a crewmate into a vent, but they can't kill from a vent.***
 
 -----------------------
 ## How vents are linked?
@@ -64,7 +65,7 @@ There is no change to MiraHQ Vents.
 
 -----------------------
 # Contact
-If you have some issues or bugs or suggestions, contact me at <b/>hello[at]pandoxyd.fr</b>.
+If you have some issues or bugs or suggestions, contact me at **hello[at]pandoxyd.fr**.
 
 -----------------------
 # Credits & Resources
