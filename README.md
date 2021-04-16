@@ -1,7 +1,9 @@
 # Releases
 | Among Us Version | Mod Version | Link |
 |:----------------:|:-----------:|:----:|
-|2021.4.12s|v1.2.1|*Coming Soon*|
+|2021.4.12s|v1.2.3|*Coming Soon*|
+
+*VentusMod v1.2.3 is compatible with 2021.4.14s Among us*
 
 -----------------------
 # Installation (Steam)
